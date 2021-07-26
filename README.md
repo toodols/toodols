@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**toodols/toodols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Go away**
 
 - 🔭 I’m currently working on NOTHING
 - 🌱 I’m currently learning NOTHING
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: uh...
 - 😄 Pronouns: Roblox/Robux/Bobux
 - ⚡ Fun fact: yes
--->
