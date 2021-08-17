@@ -1,10 +1,6 @@
-**Go away**
+Top of class student in advanced classes such as special ed.
 
-- 🔭 I’m currently working on NOTHING
-- 🌱 I’m currently learning NOTHING
-- 👯 I’m looking to collaborate on NOTHING
-- 🤔 I’m looking for help with ~~NOTHING~~ EVERYTHING
-- 💬 Ask me about NOTHING
-- 📫 How to reach me: [Customer Service](https://github.com/toodols/toodols/issues)
-- 😄 Pronouns: Roblox/Robux/Bobux
-- ⚡ Fun fact: yes
+How to contact me: [Customer Service](https://github.com/toodols/toodols/issues)
+How to contact me without making a fool of yourself: at#5005 (no exceptions).
+You will refer to me by my pronouns: Roblox/Robux/Bobux (no exceptions).
+Learning C# currently. Knows htmlcssjs and ts and lua.
