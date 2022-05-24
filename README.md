@@ -1,6 +1,1 @@
-### Top of class 🏆 student in advanced classes 🧠 such as special ed. 😜
-
-How to contact me: [Customer Service](https://github.com/toodols/toodols/issues) <br>
-How to contact me without making a fool of yourself: at#5005 (no exceptions). <br>
-You will refer to me by my pronouns: Roblox/Robux/Bobux (no exceptions). <br>
-Knows the following programming languages: html, css, markdown
+My dream is to become a c++ developer with an anime pfp and 4 letter gibberish repositories.
